@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# NextJs Project using youtube video
